@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @deepakexe
-- 👀 I’m interested in DevOps and cloud computing
-- 🌱 I’m currently learning DevOps tools
-- 💞️ I’m looking to collaborate on DevOps projects
+-  Hi, I’m Deepak
+-  I’m interested in DevOps and cloud computing
+- I’m currently learning DevOps tools
+-  I’m looking to collaborate on DevOps projects
 
 
 <!---
